@@ -9,4 +9,4 @@
  * Inno Setup 5 or later from http://www.jrsoftware.org
  * WiX 3.0 or later from http://wix.sf.net
     
- <a href="mailto:dan@danbecker.info">Dan Becker</a>
+ Author: <a href="mailto:dan@danbecker.info">Dan Becker</a>
